@@ -10,6 +10,13 @@
 
 <h1 align="center">Hi, I'm Sadhu Ashritha 👋</h1>
 
+<!-- Professional cartoon illustration -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       width="420"
+       alt="software developer illustration" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -42,21 +49,17 @@ Computer Science and Engineering undergraduate with a strong focus on data struc
 <div align="left">
   <a href="https://www.linkedin.com/in/sadhu-ashritha-46a7b1351/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="37" height="25" alt="linkedin logo" />
+         width="37" height="25" alt="LinkedIn" />
   </a>
 
   <a href="https://www.hackerrank.com/profile/ashrithasadhu201" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"
-         width="37" height="25" alt="hackerrank logo" />
+         width="37" height="25" alt="HackerRank" />
   </a>
 
-  <a href="https://leetcode.com/u/Manaswini_Nuthalapati/" target="_blank">
-    <img 
-      src="https://cdn.simpleicons.org/leetcode/FFFFFF" 
-      width="37" height="25" 
-      style="margin-right: 28px;" 
-      alt="LeetCode"
-    />
+  <a href="https://leetcode.com/u/SadhuAshritha/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116"
+         width="28" height="28" alt="LeetCode" />
   </a>
 </div>
 
