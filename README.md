@@ -10,11 +10,11 @@
 
 <h1 align="center">Hi, I'm Sadhu Ashritha 👋</h1>
 
-<!-- Professional cartoon illustration -->
+<!-- Professional coding illustration -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif"
        width="420"
-       alt="software developer illustration" />
+       alt="coding illustration" />
 </p>
 
 ---
