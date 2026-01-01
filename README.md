@@ -50,9 +50,13 @@ Computer Science and Engineering undergraduate with a strong focus on data struc
          width="37" height="25" alt="hackerrank logo" />
   </a>
 
-  <a href="https://leetcode.com/u/SadhuAshritha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg"
-         width="37" height="25" alt="leetcode logo" />
+  <a href="https://leetcode.com/u/Manaswini_Nuthalapati/" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/leetcode/FFFFFF" 
+      width="37" height="25" 
+      style="margin-right: 28px;" 
+      alt="LeetCode"
+    />
   </a>
 </div>
 
