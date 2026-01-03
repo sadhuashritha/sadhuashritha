@@ -55,16 +55,12 @@ Actively preparing for **AIML / Software Engineering roles**.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhuashritha&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhuashritha&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhuashritha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadhuashritha&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhuashritha&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
 
 ## 🧠 LeetCode Stats
 <p align="center">
