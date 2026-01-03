@@ -52,9 +52,9 @@ Computer Science and Engineering undergraduate focused on **Data Structures, Alg
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadhuashritha&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadhuashritha&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadhuashritha&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhuashritha&theme=tokyonight" />
 
 ---
 
