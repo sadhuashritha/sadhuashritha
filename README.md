@@ -53,6 +53,7 @@ Computer Science and Engineering undergraduate focused on **Data Structures, Alg
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadhuashritha&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadhuashritha&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 ---
 
@@ -61,7 +62,6 @@ Computer Science and Engineering undergraduate focused on **Data Structures, Alg
   <img src="https://leetcard.jacoblin.cool/SadhuAshritha?theme=dark&font=Karma"/>
 </p>
 
----
 
 ## 📈 GitHub Activity
 <picture>
